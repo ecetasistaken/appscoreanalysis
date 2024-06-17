@@ -16,4 +16,4 @@ We used a dataset containing pre-COVID and post-COVID app data. The features inc
 
 
 
-![Ekran görüntüsü 2024-06-17 124639](https://github.com/ecetasistaken/mi-/assets/159184426/d4087ef7-d5c6-4bab-b85b-87c66f7566c8)
+(https://github.com/ecetasistaken/mi-/assets/159184426/d4087ef7-d5c6-4bab-b85b-87c66f7566c8)
